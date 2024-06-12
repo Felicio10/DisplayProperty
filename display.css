@@ -1,0 +1,27 @@
+/* div{
+    display:none;
+} */
+
+/* a{
+    display: block;
+} */
+
+/* h1{
+    display: none;
+} */
+
+/* h1{
+    visibility: hidden;
+} */
+
+/* div{
+    position: relative;
+    top: 20px;
+    left: 70px;
+} */
+ div.fixed{
+    position: fixed;
+    top: 0;
+    left: 0x;
+    
+ } 
